@@ -3,7 +3,7 @@ package com.sfsupport247.trainings.java.javain1hour.section6;
 // Main.java
 public class MainVehicle {
     public static void main(String[] args) {
-        Vehicle car = new Car("Toyota Camry", 5, "Petrol");
+        Vehicle car = new Car("BMW", 5, "Petrol");
         Vehicle flyingCar = new FlyingCar("Sky Cruiser", "Electric");
 
         car.start(); // Polymorphism
