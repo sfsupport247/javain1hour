@@ -1,3 +1,5 @@
+package com.sfsupport247.trainings.java.javain1hour.section5;
+
 public class FlyingVehicle {
     // Public attribute
     public String name;

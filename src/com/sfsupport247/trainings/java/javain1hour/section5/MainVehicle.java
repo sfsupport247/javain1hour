@@ -1,3 +1,5 @@
+package com.sfsupport247.trainings.java.javain1hour.section5;
+
 public class MainVehicle {
     public static void main(String[] args) {
         // Creating objects

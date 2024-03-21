@@ -1,3 +1,4 @@
+package com.sfsupport247.trainings.java.javain1hour.section5;
 public class Vehicle {
     // Attributes
     String type;

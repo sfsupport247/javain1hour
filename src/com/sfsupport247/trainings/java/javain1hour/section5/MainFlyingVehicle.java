@@ -1,3 +1,4 @@
+
 public class MainFlyingVehicle {
     public static void main(String[] args) {
         FlyingVehicle plane = new FlyingVehicle();
