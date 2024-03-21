@@ -4,7 +4,7 @@ public class JavaBasics {
     public static void main(String[] args) {
         // Variables declaration and initialization
         int a = 5;
-        int b = 3;
+        int b = 13;
         
         // Float and double variables
         float c = 3.5f;
@@ -27,6 +27,7 @@ public class JavaBasics {
         System.out.println("Product: " + product);
         System.out.println("Quotient: " + quotient);
         System.out.println("Division Result: " + divisionResult);
+                
         
         // Output float and double variables
         System.out.println("Float Variable c: " + c);
@@ -34,6 +35,7 @@ public class JavaBasics {
         
         // Output char variable
         System.out.println("Char Variable ch: " + ch);
+        
         
         // Conditional statements
         if (a > b) {
@@ -52,6 +54,8 @@ public class JavaBasics {
         i--; // Decrement operator
         System.out.println("After decrementing i: " + i);
         
+        
+       
         // Loops
         // While loop
         int j = 0;
@@ -63,6 +67,6 @@ public class JavaBasics {
         // For loop
         for (int k = 0; k < 5; k++) {
             System.out.println("Inside for loop, k = " + k);
-        }
+        } 
     }
 }
