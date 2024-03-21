@@ -1,4 +1,4 @@
-
+package com.sfsupport247.trainings.java.javain1hour.section6;
 
 // FlyingCar.java
 public class FlyingCar extends Vehicle {
